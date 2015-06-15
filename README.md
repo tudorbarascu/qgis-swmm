@@ -32,9 +32,9 @@ For linux:
 
     mkdir swmm
     cd swmm
-    wget http://www2.epa.gov/sites/production/files/2014-06/swmm51006_engine_0.zip
-    unzip swmm51006_engine_0.zip
-    unzip source5_1_006.zip
+    wget http://www2.epa.gov/sites/production/files/2015-05/swmm51009_engine_0.zip
+    unzip swmm51009_engine_0.zip
+    unzip source5_1_009.zip
     unzip -o makefiles.zip 
     unzip -o GNU-CLE.zip
 
